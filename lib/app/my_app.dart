@@ -47,7 +47,6 @@ class _MyAppState extends State<MyApp> {
 
   List<Locale> _getSupportedLocal() {
     return [
-      const Locale('en', ''),
       const Locale('bn', ''),
     ];
   }
